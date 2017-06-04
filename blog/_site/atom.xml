@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>K. Knowles</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-06-03T18:51:56-07:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Katie Knowles</name>
+   <email>katie@kknowl.es</email>
+ </author>
+
+ 
+ <entry>
+   <title>EHLO World</title>
+   <link href="http://localhost:4000/nontech/2017/06/03/EHLO-world/"/>
+   <updated>2017-06-03T00:00:00-07:00</updated>
+   <id>http://localhost:4000/nontech/2017/06/03/EHLO-world</id>
+   <content type="html">&lt;p&gt;Blog is up! &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt; with &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github pages&lt;/a&gt; has felt modern and logical so far, and I’m thankful for the GUI-less setup.&lt;/p&gt;
+
+&lt;p&gt;Watch this space for talks, thoughts, and tech adventures. Looking forward to sharing my work with you.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
