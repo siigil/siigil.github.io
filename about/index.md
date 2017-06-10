@@ -4,7 +4,7 @@ author: sigil
 layout: page
 ---
 
-Katie Knowles _(sigil)_ is an Information Security professional with a love of exploration.  
+Katie Knowles _(sigil)_ is an Information Security practitioner with a love of exploration.  
 
 By day, she is an Information Security Specialist within the enterprise security sphere. By night, she pursues a relentless quest for knowledge and community. Katie is a speaker and active participant in [DC562](https://dc562.org/), an alumni of RIT's [SPARSA](https://sparsa.org/), and a frequent volunteer with DEF CON's [Wall of Sheep](https://www.wallofsheep.com/). She firmly believes in growing alongside her peers, building strong teams, and good time spent on good projects.
 
