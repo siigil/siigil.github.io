@@ -1,0 +1,38 @@
+# Dependencies
+markdown:            kramdown
+highlighter:         rouge
+
+# Gems (for Jekyll 3.0)
+gems: [jekyll-paginate]
+
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               K. Knowles
+tagline:             'Excursions in Security'
+description:         'Research, ramblings, and lessons learned along the Infosec trail.'
+url:                 http://kknowl.es/
+baseurl:             /
+paginate:            7
+
+# About/contact
+author:
+  name:              Katie Knowles
+  url:               https://twitter.com/_sigil
+  email:             katie@kknowl.es
+
+# Custom vars
+version:             2.0
+
+# Social Media
+github:				http://github.com/siigil
+twitter:			http://twitter.com/_sigil
+
+# Theme Author (Please don't edit this line cause of MIT LICENSE rules)
+theme:
+  creator:			Rizky Ariestiyansyah
+  codename:			Naringu
+  link:             https://github.com/ariestiyansyah/naringu
