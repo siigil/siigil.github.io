@@ -1,3 +1,0 @@
-# KKNOWL.ES
-
-Homepage & blog.
