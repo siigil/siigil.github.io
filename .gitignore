@@ -21,3 +21,55 @@ package-lock.json
 # Misc
 assets/js/dist
 assets/img/.DS_Store
+
+# hidden files
+.*
+!.git*
+!.editorconfig
+!.nojekyll
+!.travis.yml
+!.husky
+!.commitlintrc.json
+!.versionrc.json
+
+# bundler cache
+_site
+vendor
+Gemfile.lock
+_chirpy_posts
+# rubygem
+*.gem
+
+# npm dependencies
+node_modules
+package-lock.json
+_site
+.sass-cache
+.jekyll-metadata
+.jekyll-cache
+yarn.lock
+Gemfile.lock
+package-lock.json
+node_modules/
+
+### macOS ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
