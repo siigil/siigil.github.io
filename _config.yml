@@ -29,23 +29,23 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: siigil # change to your github username
+  username: github_username # change to your github username
 
 twitter:
-  username: _sigil # change to your twitter username
+  username: twitter_username # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Katie Knowles
-  email:  # change to your email address
+  name: your_full_name
+  email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-   # - https://twitter.com/_sigil # change to your twitter homepage
-   #- https://github.com/siigil # change to your github homepage
+    - https://twitter.com/username # change to your twitter homepage
+    - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    #- https://www.linkedin.com/in/kaknowles/
+    # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
 
@@ -70,7 +70,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: #[light|dark]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
