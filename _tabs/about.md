@@ -4,14 +4,6 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
 Hi! I’m a Cloud Security practitioner, currently working as part of a multi-national corporate blue team. I believe in having both offensive and defensive mindsets to approach cybersecurity right, and have dedicated myself to this over the past 8 years with dedicated roles in penetration testing, incident response, security engineering, and application security across both internal and consulting functions.
 
 I earned my BS in Electrical Engineering from Rochester Intitute of Technology (RIT), and hold OSCP, GPEN, GCSA, Azure Security Engineer Associate, and Azure Administrator Associate certifications.
