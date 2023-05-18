@@ -1,10 +1,10 @@
 ---
 # the default layout is 'page'
-icon: fas fa-info-circle
+icon: fas fa-angle-right
 order: 3
 ---
 
-## Talks & External Publications
+## Talks & Additional Content
 
 | Title | Event | Slides | Video |
 | - | - | - | - |
