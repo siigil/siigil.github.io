@@ -3,7 +3,9 @@ layout: post
 title:  "What Do You Want?"
 date:   2023-06-05 09:30:00 -0400
 categories: career reflections
-image: /assets/img/asst/what-do-you-want-header.png
+image: 
+  path: /assets/img/asst/what-do-you-want-header.png
+  alt: The best coaching question I’ve ever received was at the moment I least expected it, four years ago. I was tired, overwhelmed with amazing opportunities - talks, business travel, training, and projects - and just plain overwhelmed. In the midst of this, a mentor of mine reached out asking if I’d like to speak about joining his team. Exhausted but ecstatic, of course I said yes!
 ---
 
 *On burnout, balance, and choosing a focus.*
