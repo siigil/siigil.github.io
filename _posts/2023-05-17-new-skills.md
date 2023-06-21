@@ -3,11 +3,13 @@ layout: post
 title:  "Picking Up New Skills: Career Fundamentals"
 date:   2023-05-17 20:00:00 -0400
 categories: career career-fundamentals
+image: /assets/img/new-skills/new-skills-header.png
 ---
 
-*How to learn new practical skills on the job with confidence.*
+> This post is a part of the "[Career Fundamentals](https://kknowl.es/categories/career-fundamentals/)" series.
+{: .prompt-info }
 
-![a student practicing painting](/assets/img/new-skills/new-skills-header.png)
+*How to learn new practical skills on the job with confidence.*
 
 Ever since it was published, I can’t stop sharing Azeria’s blog post, “[The Importance of Deep Work & The 30-Hour Method for Learning A New Skill](https://azeria-labs.com/the-importance-of-deep-work-the-30-hour-method-for-learning-a-new-skill/)”. I’m always impressed at how well her post ties the concepts of deep work and deliberate practice back to cybersecurity. In it, she writes about the importance of choosing a focus, working without distraction, and forcing your brain into new habits that integrate regular feedback to improve your skills. This builds deep knowledge in a technical area over time through self study.
 
