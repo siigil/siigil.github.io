@@ -6,7 +6,7 @@ categories: career reflections
 image: /assets/img/useless-things/useless-things-header.png
 ---
 
-*Creativity guides us: End-of-year reflections.*
+*Creativity fuels us: End-of-year reflections.*
 
 ## The Talk
 
@@ -42,9 +42,11 @@ But what about "Why?" To secure the world, certainly. But why else? I don't know
 
 I *burn* with questions: How does that system work, and why on earth did it do that? What will I learn this year? Who will I meet, and what wild projects will they be working on? Will I hear cool stories? Will I solve new problems? Will I fall in love with new topics I didn’t know I enjoyed?
 
-Cybersecurity has that sort of magnetic pull that makes you double-take across the room at a CTF, a talk in progress, a messy project on a workbench, and think *"What on Earth is going on over there?!"*. It's infused with that delight, that passion, that classic clever hacker spirit. I'm not talking about the side-hustle grind, but the genuine stuff that makes you a child again. Pure puppy love. Honest joy. Popping a shell in a Christmas CTF. Blinky LEDs. Weird radios. That kind of thing. The kind of open-minded nonsense that drives you to solve another challenge. That *“How does that even work?”* spirit. The magic of seeing the pieces behind the system, each speaking their own language, just waiting to be heard. The creative energy that keeps us going.
+Cybersecurity has that sort of magnetic pull that makes you double-take across the room at a CTF, a talk in progress, a messy project on a workbench, and think *"What on Earth is going on over there?!"*. It's infused with that delight, that passion, that classic clever hacker spirit. I'm not talking about the side-hustle grind, but the genuine stuff that makes you a child again. Pure puppy love. Honest joy. Popping a shell in a Christmas CTF. Blinky LEDs. Weird radios. That kind of thing. The kind of open-minded nonsense that drives you to solve another challenge. That *"How does that even work?"* spirit. The magic of seeing the pieces behind the system, each speaking their own language, just waiting to be heard. The creative energy that keeps us going.
 
-Much of my 2023 has been about remembering and acting on this, and looking to share that energy with others. Thus, I’d like to share my 5 minute ramble a bit more widely.
+In the wrong light, this thrill can look "useless". What cert does it earn us? When will we ever need Software Defined Radio on the job? ...Who cares?! In my eyes, it's still worth learning. The way your mind rises to the challenge of understanding it, the metaphorical muscle built working with new ideas, will help you grow. You'll never know just how much if you don't pursue it once in a while, right?
+
+Much of my 2023 has been about remembering and acting on this, and looking to share that energy with others. Thus, I’d like to share my 5 minute ramble (the above talk) a bit more widely.
 
 And for those who are new to the field:
 
