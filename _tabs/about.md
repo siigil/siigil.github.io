@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 2
 ---
 
-Hi! I’m a Cloud Security practitioner, working as a tech lead on a multi-national corporate blue team. I believe in using both offensive and defensive skillsets to approach cybersecurity right, and have dedicated myself to this over the past 8 years with dedicated roles in penetration testing, incident response, security engineering, and application security across both internal and consulting functions.
+Hi! I’m a Cloud Security practitioner, current working as a cloud researcher. I believe in using both offensive and defensive skillsets to approach cybersecurity right, and have followed this path with dedicated roles in penetration testing, incident response, detection engineering + threat hunting, and security engineering across both internal and consulting functions.
 
 I earned my BS in Electrical Engineering from Rochester Intitute of Technology (RIT), and hold OSCP, GPEN, GCSA, Azure Security Engineer Associate, and Azure Administrator Associate certifications.
 
@@ -13,7 +13,7 @@ Documenting what I’ve learned through the writing on this blog allows me to:
 2. Share advice I've provided to mentees
 3. Reflect on career growth and lessons learned
 
-This creates an archive of advice to share with others, but also forces me to document where I've been. My current areas of technical focus are cloud (Azure, AWS, GCP), containers, and DevOps technologies.
+This creates an archive I can share with others, but also forces me to document where I've been! My current areas of technical focus are cloud (Azure, AWS, GCP), containers, and DevOps technologies.
 
 Thanks for stopping by - hope you have a great day! 🐈‍⬛  
 
