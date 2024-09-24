@@ -8,7 +8,8 @@ order: 3
 
 | Title | Event | Slides | Video |
 | - | - | - | - |
-| Azure And The (Mis) Storage Of Secrets | [BSides Toronto 2022](https://www.wicysnymetro.org/events/pentesting-workshop/) | [Slides](/assets/pdf/2022_BSidesTO_Azure.pdf) | [YouTube](https://www.youtube.com/watch?v=SmxEvVg6Fe8) |
+| Hidden in Plain Sight: (Ab)using Entra's AUs | [fwd:cloudsec Europe 2024](https://fwdcloudsec.org/conference/europe/) | [Slides](/assets/pdf/2024_fwdcloudsec_Hidden-in-Plain-Sight.pdf) | [YouTube](https://www.youtube.com/live/oD-d9B71yLo?si=ITvYkUcEDaihTA3c&t=7586) |
+| Azure And The (Mis) Storage Of Secrets | [BSides Toronto 2022](https://www.bsidesto.ca/) | [Slides](/assets/pdf/2022_BSidesTO_Azure.pdf) | [YouTube](https://www.youtube.com/watch?v=SmxEvVg6Fe8) |
 | A Quick Jaunt Through Active Directory Hacking | [WiCyS NYC, Jan 2020](https://www.wicysnymetro.org/events/pentesting-workshop/) | [Slides](/assets/pdf/2020_WiCyS_ADventure.pdf) | N/A |
 | Tips for Crushing CTFs & Pwning Pentests | [KringleCon 2019](https://holidayhackchallenge.com/2019/) | [Slides](/assets/pdf/2019_KringleCon_HackIt.pdf) | [YouTube](https://www.youtube.com/watch?v=c02mH7F1xvU) |
 | Realistic Strategies for AD Security & Red Forest Architecture | [RSA 2019](https://www.rsaconference.com/Library/presentation/USA/2019/future-forests-realistic-strategies-for-ad-security-red-forest-architecture) | [Slides](/assets/pdf/2019_RSA_AD.pdf) | [YouTube](https://www.youtube.com/watch?v=i6BI-9myiHY) |
