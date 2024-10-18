@@ -19,7 +19,7 @@ The following guide is meant as both:
 
 The rest of this post will be a fairly intensive walkthrough of this process.
 
-If you're already familiar with Stratus and open-source contributions, you can skip ahead to "[[#4. Creating a new attack technique]]".
+If you're already familiar with Stratus and open-source contributions, you can skip ahead to "[#4. Creating a new attack technique](/posts/stratus-contributor/#4-creating-a-new-attack-technique)".
 
 ## 1. Get familiar with Stratus Red Team
 Details on Stratus Red Team (a.k.a. "Stratus" for the rest of this post) can be found in its GitHub repository and website:
