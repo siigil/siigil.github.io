@@ -191,3 +191,11 @@ Once approved, you should be ready to merge in your change! At this stage, the p
 We've now covered the full process of contributing a new attack technique to Stratus Red Team! While this post was specific to Stratus, the overall workflow of understanding first the tool, then the project, and finally looking to mirror its codebase in a new contribution can be applied to nearly any project.
 
 I hope you found this helpful! If you have any questions, feel free to reach out.
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@_sigil" />
+<meta name="twitter:creator" content="@_sigil" />
+<meta property="og:url" content="https://kknowl.es/posts/stratus-contributor/" />
+<meta property="og:title" content="Becoming a Stratus Red Team Contributor" />
+<meta property="og:description" content="I recently had the opportunity to contribute to Stratus Red Team as a part of my research into Entra ID administrative units. Open-source contributions can feel daunting if you haven’t been through them before..." />
+<meta property="og:image" content="https://kknowl.es/assets/img/stratus-contributor/stratus-contributor-header.png" />
