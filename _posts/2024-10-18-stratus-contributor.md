@@ -137,7 +137,7 @@ When you're confident that your `warmup` stage is ready to go, copy it back into
 
 ### Update documentation (init, .md)
 1. Fully update `init()` in `main.go` to match your technique's category, name, friendly name, description, detection, and other relevant fields.
-2. Under `stratus-red-team/docs/attack-techniques/[platform]`, add a Markdown file (`.md`) based on existing technique documents. Copy your documentation details from `main.go`.
+2. Run `make docs` to automatically add documentation to `stratus-red-team/docs/attack-techniques/[platform]` based on your technique's documentation in `main.go`.
 
 ## 5. Testing your technique
 ### Build and run
