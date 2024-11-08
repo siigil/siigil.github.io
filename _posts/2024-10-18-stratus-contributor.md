@@ -2,7 +2,7 @@
 layout: post
 title:  "Becoming a Stratus Red Team Contributor"
 date:   2024-10-17 09:30:00 -0400
-categories: technical
+categories: technical other
 image: /assets/img/stratus-contributor/stratus-contributor-header.png
 ---
 

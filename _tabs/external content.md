@@ -17,5 +17,5 @@ order: 3
 | Sneaking Secrets from SMB Shares | [KringleCon 2018](https://www.holidayhackchallenge.com/2018/) | [Slides](/assets/pdf/2018_KringleCon_SMB.pdf) | [YouTube](https://www.youtube.com/watch?v=W6_JaApK0xM) |
 | Voyages of the Security-Driven Enterprise | [OWASP BASC 2018](https://owasp.org/www-chapter-boston/) | [Slides](/assets/pdf/2018_BASC_Enterprise.pdf) | N/A |
 | Investigating RF Controls with the RTL-SDR | BSides NYC 2018 | [Slides](/assets/pdf/2018_BSidesNYC_SDR.pdf) | [Vimeo](https://livestream.com/internetsociety2/bsidesnyc/videos/168910206) |
-| Investigating RF Controls with the RTL-SDR | SANS Pentest HackFest 2017 | [Slides](/assets/pdf/2018_BSidesNYC_SDR.pdf) | N/A |
+| Investigating RF Controls with the RTL-SDR | SANS HackFest 2017 | [Slides](/assets/pdf/2018_BSidesNYC_SDR.pdf) | N/A |
 | SMTP Security & History | [Layer One 2017](https://www.youtube.com/playlist?list=PLa-neBkALhDRsQ51VdQHorzGMODqA_wiB) | [Slides](/assets/pdf/2017_LayerOne_SMTP.pdf) | [YouTube](https://www.youtube.com/watch?v=PHtukqtSdQc) |
