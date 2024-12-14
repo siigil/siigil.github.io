@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Security Reviews with Azure's Resource Graph Explorer!"
-date:   2024-12-15 09:30:00 -0400
+date:   2024-12-14 09:30:00 -0400
 categories: technical azure
 image: /assets/img/external/advent-of-cloud-security.png
 ---
