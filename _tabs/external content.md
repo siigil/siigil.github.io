@@ -4,8 +4,6 @@ icon: fas fa-angle-right
 order: 3
 ---
 
-# Talks & Additional Content
-
 ## Talks
 
 | Title | Event | Slides | Video |
