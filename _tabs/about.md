@@ -4,20 +4,15 @@ icon: fas fa-info-circle
 order: 2
 ---
 
-Hi! I'm a Cloud Security practitioner. In my current role, I apply my background in security to research Azure cloud security, and develop new methods of identifying cloud risk and stopping attackers targeting these environments.
+Hi! I'm a Cloud Security practitioner. In my current role, I research Azure & Entra cloud security at Datadog. This means staying fresh on Azure security, identifying new areas of risk, and ultimately detecting & stopping attackers.
 
-My previous work experience includes Penetration Testing (Web, Network, AD, Mobile), Security Consulting (Bug Bounty, Application Security), SoC & Incident Response, and Security Engineering (Network, Email, Cloud, Application). I have earned OSCP, GPEN, GCSA, AZ-104 (Azure Administrator Associate), and AZ-500 (Azure Security Engineer Associate) certifications, and hold a BS in Electrical Engineering from RIT.
+Through my past roles, I've had the chance to approach security as both an attacker and defender, from incident response and detection engineering to penetration testing. Along the way I've earned Azure (AZ-104, AZ-500) and offensive security (OSCP, GPEN) certifications.
 
-I'm passionate about keeping new technology secure, coaching technical excellence, and fostering professional skills for those newer to the field.
+This blog is an outlet for my career thoughts and side projects, as well as an overflow for the cliffnotes of content that may not fit in other channels.
 
-Documenting what I’ve learned through on this blog allows me to:
-1. Capture my own technology notes as I learn
-2. Share advice I've provided to mentees
-3. Reflect on lessons learned
+You can find my talks and external posts here: [External Content](/external-content/)
 
-This creates an archive I can share with others, but also forces me to document where I've been! My current areas of technical focus are cloud (Azure, AWS, GCP), containers, and DevOps technologies.
-
-Thanks for stopping by. Hope you have a great day! 🐈‍⬛  
+Hope you have a great day! 🐈‍⬛ 
 
 ## Certifications
 
