@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Persistence is Futile: Defending against Entra ID persistence"
+title:  "Persisting Unseen: Defending against Entra ID persistence"
 date:   2025-06-04 09:00:00 -0400
 categories: technical azure 
 image: /assets/img/defending-persistence/defending-persistence-header.png
