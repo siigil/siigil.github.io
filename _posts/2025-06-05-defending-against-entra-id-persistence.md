@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Persistence is Futile: Defending against Entra ID persistence"
-date:   2025-06-05 09:00:00 -0400
+date:   2025-06-04 09:00:00 -0400
 categories: technical azure 
 image: /assets/img/defending-persistence/defending-persistence-header.png
 ---
@@ -11,6 +11,9 @@ I recently presented "Persisting Unseen: Attacker Methods of Infesting Entra ID"
 This post serves two purposes:
 - **A follow-up** to my session that you can easily share with your team. The links below will get started reviewing, hardening, and monitoring these areas of Entra ID!
 - **A standalone** list of recommended reading on securing Entra ID against some more well-known persistence techniques.
+
+You can find the slides for my session here:
+- [Persisting Unseen: Attacker Methods of Infesting Entra ID](/assets/pdf/2025_RSAC-Cloud-Seminar_Entra-ID-Persistence.pdf)
 
 This post is by no means a *comprehensive* guide, and is meant more as an *introductory* guide. The reading and resources on this list focus on curated reading in three core areas you can begin to monitor and secure.
 
