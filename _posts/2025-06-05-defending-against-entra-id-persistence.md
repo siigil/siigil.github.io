@@ -224,7 +224,7 @@ Monitor Device Code Sign-in Logs:
 ## What Next?
 
 ### Microsoft Graph Permissions
-Microsoft Graph permissions are a type of application permission that grant applications the ability to perform privileged actions within Entra ID and M365, through the Microsoft Graph API. These are crucial to review as a follow-up to reading on [[#Applications]], and grant additional permissions similar to those granted by [[#Role Assignments]].
+Microsoft Graph permissions are a type of application permission that grant applications the ability to perform privileged actions within Entra ID and M365, through the Microsoft Graph API. These are crucial to review as a follow-up to reading on [Applications](#applications), and grant additional permissions similar to those granted by [Role Assignments](#role-assignments).
 
 More on Microsoft Graph permissions:
 - [Microsoft, "Overview of Microsoft Graph permissions"](https://learn.microsoft.com/en-us/graph/permissions-overview?tabs=http)
@@ -252,7 +252,7 @@ Individual and personal blogs that frequently focus on Entra ID and Azure securi
 - Lina Lau,[https://www.inversecos.com/](https://www.inversecos.com/)
 - Marius Solbakken, [https://goodworkaround.com/](https://goodworkaround.com/)
 - Merill Fernando, [https://blog.merill.net/](https://blog.merill.net/)
-- Nathan McNulty, [https://nathanmcnulty.com/]
+- Nathan McNulty, [https://nathanmcnulty.com/](https://nathanmcnulty.com/)
 - Rudy Ooms, [https://call4cloud.nl/](https://call4cloud.nl/)
 - Sapir Federovsky, [https://sapirxfed.com/blog-posts/](https://sapirxfed.com/blog-posts/)
 - Thomas Naunheim, [https://www.cloud-architekt.net/blog/](https://www.cloud-architekt.net/blog/)
