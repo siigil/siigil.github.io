@@ -252,6 +252,7 @@ Individual and personal blogs that frequently focus on Entra ID and Azure securi
 - Lina Lau,[https://www.inversecos.com/](https://www.inversecos.com/)
 - Marius Solbakken, [https://goodworkaround.com/](https://goodworkaround.com/)
 - Merill Fernando, [https://blog.merill.net/](https://blog.merill.net/)
+- Nathan McNulty, [https://nathanmcnulty.com/]
 - Rudy Ooms, [https://call4cloud.nl/](https://call4cloud.nl/)
 - Sapir Federovsky, [https://sapirxfed.com/blog-posts/](https://sapirxfed.com/blog-posts/)
 - Thomas Naunheim, [https://www.cloud-architekt.net/blog/](https://www.cloud-architekt.net/blog/)
