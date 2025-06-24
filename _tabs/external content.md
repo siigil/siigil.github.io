@@ -8,6 +8,7 @@ order: 3
 
 | Title | Event | Slides | Video |
 | - | - | - | - |
+| Attacker Methods of Infesting Entra ID | [RSAC Cloud Seminar](https://www.rsaconference.com/library/virtual%20seminar/hds19-cloud-security) | [Slides](/assets/pdf/2025_RSAC-Cloud-Seminar_Entra-ID-Persistence.pdf) | [YouTube](https://youtu.be/ngSFP-tgupM?si=ZNHXRV67vtHYX1V7&t=4720) |
 | Entra ID's Administrative Unit Attack Paths | [SpecterOps SO-CON 2025](https://socon-2025.sessionize.com/session/771606) | [Slides](https://github.com/SpecterOps/presentations/blob/main/SO-CON%202025/Katie%20Knowles%20-%20Abusing%20AUs%2C%20Confusing%20the%20SOC%20-%20Entra%20ID's%20Administrative%20Unit%20Attack%20Paths/Katie%20Knowles%20-%20Abusing%20AUs%20Confusing%20the%20SOC%20-%20SO-CON%202025.pdf) | [YouTube](https://www.youtube.com/watch?v=oxD7-UhE3Nw) |
 | Hidden in Plain Sight: (Ab)using Entra's AUs | [BSides Toronto 2024](https://pretalx.com/bsides-toronto-2024/schedule/) | [Slides](/assets/pdf/2024_BSidesTO_Hidden-in-Plain-Sight.pdf) | [YouTube](https://www.youtube.com/watch?v=jhWT5HG2OQc) |
 | Hidden in Plain Sight: (Ab)using Entra's AUs | [fwd:cloudsec EU 2024](https://fwdcloudsec.org/conference/europe/) | [Slides](/assets/pdf/2024_fwdcloudsec_Hidden-in-Plain-Sight.pdf) | [YouTube](https://www.youtube.com/watch?v=Uoqu9r_-0sg) |
