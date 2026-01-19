@@ -29,6 +29,8 @@ order: 3
 
 | Link | Source |
 | - | - |
+| [CoPhish: Using Microsoft Copilot Studio as a wrapper for OAuth phishing](https://securitylabs.datadoghq.com/articles/cophish-using-microsoft-copilot-studio-as-a-wrapper/) | Datadog Security Labs |
+| [I SPy: Escalating to Entra ID's Global Admin with a first-party app](https://securitylabs.datadoghq.com/articles/i-spy-escalating-to-entra-id-global-admin/) | Datadog Security Labs |
 | [Creating immutable users through a bug in Entra ID restricted administrative units](https://securitylabs.datadoghq.com/articles/creating-immutable-users-entra-id-administrative-units/) | Datadog Security Labs |
 | [Escalating privileges to read secrets with Azure Key Vault access policies](https://securitylabs.datadoghq.com/articles/escalating-privileges-to-read-secrets-with-azure-key-vault-access-policies/) | Datadog Security Labs |
 | [Hidden in Plain Sight: Abusing Entra ID Administrative Units for Sticky Persistence](https://securitylabs.datadoghq.com/articles/abusing-entra-id-administrative-units/) | Datadog Security Labs |
