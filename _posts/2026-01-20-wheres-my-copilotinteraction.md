@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dude, where's my CopilotInteraction?"
-date:   2026-01-19 07:00:00 -0400
+date:   2026-01-20 07:00:00 -0400
 categories: technical azure 
 image: /assets/img/asst/wheres-my-copilotinteraction-header.png
 ---
