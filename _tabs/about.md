@@ -4,11 +4,11 @@ icon: fas fa-info-circle
 order: 2
 ---
 
-Hi! I'm a Cloud Security practitioner. In my current role, I research Azure & Entra cloud security at Datadog. This means staying fresh on Azure security, identifying new areas of risk, and ultimately detecting & stopping attackers.
+Hello! I am a Senior Security Researcher at Datadog and [Microsoft MVP in Security](https://mvp.microsoft.com/en-US/mvp/profile/a3547b6a-6a4d-4aa0-840f-23b858c43c8b). I currently focus on Entra & Azure research, and am passionate about securing new technologies and cloud identities.
 
 Through my past roles, I've had the chance to approach security as both an attacker and defender, from incident response and detection engineering to penetration testing. Along the way I've earned Azure (AZ-104, AZ-500) and offensive security (OSCP, GPEN) certifications.
 
-This blog is an outlet for my career thoughts and side projects, as well as an overflow for the cliffnotes of content that may not fit in other channels.
+This blog is an outlet for my career thoughts and side projects, as well as an overflow for any content that may not fit in other channels.
 
 You can find my talks and external posts here: [External Content](/external-content/)
 
