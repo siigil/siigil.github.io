@@ -8,6 +8,7 @@ order: 3
 
 | Title | Event | Slides | Video |
 | - | - | - | - |
+| Age of Entitlement: Breaking and Securing Entra Access Packages | [HIPConf 2026](https://semperis.swoogo.com/hipconf26/agenda) | [Slides](/assets/pdf/2026_HIPConf_Age-of-Entitlement.pdf) | N/A |
 | I SPy: Rethinking Entra ID Research for New Paths to GA | [fwd:cloudsec 2025](https://fwdcloudsec.org/) | [Slides](/assets/pdf/2025_fwdcloudsec_I-SPy-Rethinking-Entra-ID-Research.pdf) | [YouTube](https://www.youtube.com/watch?v=oNpwtt1TEkQ) |
 | Persisting Unseen: Attacker Methods of Infesting Entra ID | [RSAC Cloud Seminar](https://www.rsaconference.com/library/virtual%20seminar/hds19-cloud-security) | [Slides](/assets/pdf/2025_RSAC-Cloud-Seminar_Entra-ID-Persistence.pdf) | [YouTube](https://youtu.be/ngSFP-tgupM?si=ZNHXRV67vtHYX1V7&t=4720) |
 | Abusing AUs, Confusing the SOC: Entra ID's AU Attack Paths | [SO-CON 2025](https://socon-2025.sessionize.com/session/771606) | [Slides](https://github.com/SpecterOps/presentations/blob/main/SO-CON%202025/Katie%20Knowles%20-%20Abusing%20AUs%2C%20Confusing%20the%20SOC%20-%20Entra%20ID's%20Administrative%20Unit%20Attack%20Paths/Katie%20Knowles%20-%20Abusing%20AUs%20Confusing%20the%20SOC%20-%20SO-CON%202025.pdf) | [YouTube](https://www.youtube.com/watch?v=oxD7-UhE3Nw) |
@@ -29,6 +30,11 @@ order: 3
 
 | Link | Source |
 | - | - |
+| [Age of Entitlement: Privileges in Entra's access packages](https://securitylabs.datadoghq.com/articles/entra-access-packages-part-1-privileges/) | Datadog Security Labs |
+| [Entra Agent ID: Protect, detect, respond](https://securitylabs.datadoghq.com/articles/agent-id-protect-detect-respond/) | Datadog Security Labs |
+| [Entra Agent ID: Inside a cross-tenant agent compromise](https://securitylabs.datadoghq.com/articles/agent-id-inside-agent-compromise/) | Datadog Security Labs |
+| [Entra Agent ID: The blueprint blast radius](https://securitylabs.datadoghq.com/articles/agent-id-blueprint-blast-radius/) | Datadog Security Labs |
+| [Uncovering agent logging gaps in Copilot Studio](https://securitylabs.datadoghq.com/articles/copilot-studio-logging-gaps/) | Datadog Security Labs |
 | [CoPhish: Using Microsoft Copilot Studio as a wrapper for OAuth phishing](https://securitylabs.datadoghq.com/articles/cophish-using-microsoft-copilot-studio-as-a-wrapper/) | Datadog Security Labs |
 | [I SPy: Escalating to Entra ID's Global Admin with a first-party app](https://securitylabs.datadoghq.com/articles/i-spy-escalating-to-entra-id-global-admin/) | Datadog Security Labs |
 | [Creating immutable users through a bug in Entra ID restricted administrative units](https://securitylabs.datadoghq.com/articles/creating-immutable-users-entra-id-administrative-units/) | Datadog Security Labs |
